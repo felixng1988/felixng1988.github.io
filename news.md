@@ -5,7 +5,7 @@
 
 ## 这里会定期给大家发布一些文章和我遇到的一些事情
 
-- [我为什么讨厌微软？Linux 真的不适合普通人使用吗？](news/i_hate_microsoft)
+- [我为什么讨厌微软？Linux 真的不适合普通人使用吗？](./news-i_hate_microsoft)
 > 2024/09/09 04:12 (CST / UTC+8)
 
 - [微软皇家护卫犬](./news-microsoft_royal_guard_dogs)
